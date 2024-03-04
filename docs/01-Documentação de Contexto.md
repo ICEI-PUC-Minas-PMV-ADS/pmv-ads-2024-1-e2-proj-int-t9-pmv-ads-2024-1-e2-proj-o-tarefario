@@ -1,6 +1,6 @@
 # Introdução
 
-Convidamos os leitores desse artigo, a assistir um breve vídeo sobre a apresentação dessa proposta: [será inserido aqui o link do vídeo de apresentação de até 2 minutos]
+Convidamos os leitores desse artigo, a assistir um breve vídeo sobre a apresentação dessa proposta: _[será inserido aqui o link do vídeo de apresentação de até 2 minutos]_
 
 ## Problema
 
