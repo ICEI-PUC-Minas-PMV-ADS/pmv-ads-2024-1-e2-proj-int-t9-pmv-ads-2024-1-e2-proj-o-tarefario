@@ -20,7 +20,7 @@ Vinícius Simões dos Santos
 
 ## Orientador
 
-Neil Paiva Tizzo
+Profº. Neil Paiva Tizzo
 
 ## Instruções de Utilização
 
