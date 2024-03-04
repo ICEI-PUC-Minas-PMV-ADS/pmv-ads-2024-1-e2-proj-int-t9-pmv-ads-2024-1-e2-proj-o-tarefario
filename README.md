@@ -1,5 +1,5 @@
 # TAREFÁRIO - Simplificar para Produzir: 
-Uma proposta de Aplicação de Gerenciamento de Tarefas, visando inibir evasões e perdas de desempenho.
+Uma proposta de aplicação de gerenciamento de tarefas, visando inibir evasões e perdas de desempenho.
 
 `Tecnologia e Análise em Desenvolvimento de Sistemas`
 
