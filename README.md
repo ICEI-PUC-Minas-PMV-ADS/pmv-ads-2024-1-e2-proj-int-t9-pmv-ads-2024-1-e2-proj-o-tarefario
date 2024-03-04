@@ -1,25 +1,28 @@
-# TÍTULO DO PROJETO
+# TAREFÁRIO - Simplificar para Produzir: 
+Uma proposta de Aplicação de Gerenciamento de Tarefas, visando inibir evasões e perdas de desempenho.
 
-`CURSO`
+`Tecnologia e Análise em Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`PROJETO: Desenvolvimento de uma Aplicação Interativa - Turma 9`
 
-`SEMESTRE`
+`2º Semestre de 2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto consiste em uma aplicação de gestão de tarefas diárias, uma solução para auxiliar na organização e produtividade individual, a fim de facilitar nas dificuldades de organização e perdas de desempenho pessoal, visando atingir esse objetivo com uma aplicação trabalhada em estímulo visual, layout amigável e simplista.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Aliane Elias Amaral
+Daphine Custódia de Almeida
+Gabriel Mautone Costa
+Gabriel Silva
+João Paulo Leão Matos
+Vinícius Simões dos Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+Neil Paiva Tizzo
 
-## Instruções de utilização
+## Instruções de Utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
