@@ -7,7 +7,7 @@ Uma proposta de aplicação de gerenciamento de tarefas, visando inibir evasões
 
 `2º Semestre de 2024`
 
-Este projeto consiste em uma aplicação de gestão de tarefas diárias, uma solução para auxiliar na organização e produtividade individual, a fim de facilitar nas dificuldades de organização e perdas de desempenho pessoal, visando atingir esse objetivo com uma aplicação trabalhada em estímulo visual, layout amigável e simplista.
+Este projeto consiste em uma aplicação de gestão de tarefas diárias, uma solução para apoiar na organização e produtividade individual, a fim de auxiliar nas dificuldades de organização e perdas de desempenho pessoal, visando atingir esse objetivo com uma aplicação trabalhada em estímulo visual, layout amigável e simplista.
 
 ## Integrantes
 
