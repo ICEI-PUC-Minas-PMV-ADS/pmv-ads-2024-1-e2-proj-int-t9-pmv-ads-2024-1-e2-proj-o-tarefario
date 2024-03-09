@@ -14,6 +14,12 @@ Muitas vezes, isso podendo se tornar motivo de frustrações pessoais, causando 
 
 Considerando esses problemas apresentados, propomos uma ferramenta de gerenciamento de tarefas como uma solução, mas uma ferramenta ainda mais especial, por ser criada visando oferecer uma aparência simplista e visualmente amigável, baseada nos Sete Princípios do Desenvolvimento de Software de David Hooker (1996), pensada e desenvolvida com o intuito de auxiliar nessas dificuldades citadas.
 
+## Justificativa
+
+
+
+
+
 ## Público-Alvo
 
 Consideramos como principal público-alvo deste trabalho, pessoas que enfrentam dificuldades em organizar tarefas, organizar seus objetivos, visualizar e reconhecer os seus progressos.
