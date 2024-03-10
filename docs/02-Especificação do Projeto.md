@@ -8,19 +8,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+#Persona 1: Marina, 23 anos, estudante Universitária, mora em uma cidade movimentada. Ela vem de uma família de classe média, onde aprendeu desde cedo a valorizar a educação e a busca pelo sucesso profissional.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Educação e Ocupação: Atualmente, Marina está cursando o quarto ano de Engenharia de Software em uma boa universidade. Ela é uma estudante dedicada e ambiciosa, sempre buscando oportunidades para expandir seus conhecimentos e habilidades.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Desafios e Objetivos: Com uma carga horária acadêmica exigente e projetos de pesquisa em andamento, Marina lida constantemente com o desafio de gerenciar seu tempo de forma eficaz. Ela deseja aumentar sua produtividade para equilibrar suas responsabilidades acadêmicas com outras atividades, como estágios e projetos extracurriculares.
+
+Hábitos e Interesses: Marina é uma entusiasta da tecnologia e está sempre procurando por aplicativos e ferramentas que possam ajudá-la a organizar suas tarefas diárias e melhorar sua eficiência. Ela também gosta de praticar atividades físicas regularmente para manter um estilo de vida saudável e equilibrado.
+
+Metas de Uso do Produto/Serviço: Marina está interessada em encontrar uma solução de gerenciamento de tempo que seja intuitiva, personalizável e sincronizável em todos os seus dispositivos. Ela busca uma ferramenta que possa ajudá-la a priorizar tarefas, estabelecer metas realistas e acompanhar seu progresso ao longo do tempo.
+
+#Persona 2: Pedro, 29 anos, Profissional Recém-Formado em Administração de Empresas em uma universidade reconhecida. Ele vive em uma cidade grande e movimentada, onde há muitas oportunidades de emprego, mas também uma competição acirrada.
+
+Educação e Ocupação: Após concluir sua graduação, Pedro conseguiu um emprego como assistente de marketing em uma startup de tecnologia. Ele está animado com a oportunidade de começar sua carreira em uma área que sempre o interessou.
+
+Desafios e Objetivos: Como profissional recém-formado, Pedro está descobrindo os desafios de equilibrar suas responsabilidades no trabalho com sua vida pessoal. Ele quer se destacar em seu novo emprego e progredir em sua carreira, mas às vezes se sente sobrecarregado com a quantidade de tarefas que precisa realizar diariamente.
+
+Hábitos e Interesses: Pedro é um aficionado por tecnologia e está sempre em busca de novas ferramentas e aplicativos que possam ajudá-lo a aumentar sua produtividade e melhorar sua eficiência no trabalho. Ele também gosta de ler sobre desenvolvimento pessoal e assistir a vídeos motivacionais para se manter inspirado e focado em seus objetivos.
+
+Metas de Uso do Produto/Serviço: Pedro está interessado em encontrar uma solução de gerenciamento de tarefas e produtividade que seja fácil de usar, mas também poderosa o suficiente para atender às demandas de sua vida profissional agitada. Ele busca uma ferramenta que possa ajudá-lo a priorizar suas tarefas, organizar seu tempo de forma eficaz e colaborar com sua equipe de trabalho de maneira eficiente.
 
 ## Histórias de Usuários
 
