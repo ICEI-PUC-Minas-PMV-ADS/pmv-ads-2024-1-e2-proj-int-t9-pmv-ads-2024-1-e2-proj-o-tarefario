@@ -28,6 +28,24 @@ Hábitos e Interesses: Pedro é um aficionado por tecnologia e está sempre em b
 
 Metas de Uso do Produto/Serviço: Pedro está interessado em encontrar uma solução de gerenciamento de tarefas e produtividade que seja fácil de usar, mas também poderosa o suficiente para atender às demandas de sua vida profissional agitada. Ele busca uma ferramenta que possa ajudá-lo a priorizar suas tarefas, organizar seu tempo de forma eficaz e colaborar com sua equipe de trabalho de maneira eficiente.
 
+#PERSONA 3: Gabriela, 27 anos, administradora. Vive na região metropolitana de sua cidade.
+
+Quais apps costuma usar: Word e Excel.
+
+Qual o motivação dessa pessoa para usar esses apps: organizar de forma apropriada as rotinas de trabalho, manter registros e documentações.
+
+Quais necessidades ela tem ao utilizar esses apps: segundo ela, a interface dos apps é ultrapassada, não existe um controle para quando as tarefas estão “em andamento”.
+
+O que ela deseja/espera de um bom app para isso: organização, interface agradável e rápida.
+
+#PERSONA 4: Augusto, 33 anos, vendedor, vive na região metropolitana de sua cidade.
+
+Quais apps costuma usar: utiliza apps de redes sociais como WhatsApp e Instagram, nos quais mantém contato com seus clientes mas não registra suas ações em aplicativos específicos de organização.
+
+Quais necessidades ele tem ao utilizar esses apps: nenhum deles é específico para ordenar as demandas dos seus clientes pois são redes sociais, portanto fazem falta até mesmo ferramentas básicas como um espaço para colocar seus clientes fixos, seus produtos mais procurados e sua rotina diária.
+
+O que ele deseja/espera de um bom app para isso: que seja intuitivo e simples para usuários básicos, de forma que não precise pesquisar demais pra entender o funcionamento da ferramenta.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
