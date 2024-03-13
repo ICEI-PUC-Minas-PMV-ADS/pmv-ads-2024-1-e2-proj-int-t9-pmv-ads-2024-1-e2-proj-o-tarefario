@@ -28,9 +28,9 @@ Hábitos e Interesses: Pedro é um aficionado por tecnologia e está sempre em b
 
 Metas de Uso do Produto/Serviço: Pedro está interessado em encontrar uma solução de gerenciamento de tarefas e produtividade que seja fácil de usar, mas também poderosa o suficiente para atender às demandas de sua vida profissional agitada. Ele busca uma ferramenta que possa ajudá-lo a priorizar suas tarefas, organizar seu tempo de forma eficaz e colaborar com sua equipe de trabalho de maneira eficiente.
 
-#PERSONA 3: Gabriela, 27 anos, administradora. Vive na região metropolitana de sua cidade.
+#Persona 3: Gabriela, 27 anos, administradora.
 
-Quais apps costuma usar: Word e Excel.
+Quais apps costuma usar: Word, Excel.
 
 Qual o motivação dessa pessoa para usar esses apps: organizar de forma apropriada as rotinas de trabalho, manter registros e documentações.
 
@@ -38,7 +38,7 @@ Quais necessidades ela tem ao utilizar esses apps: segundo ela, a interface dos 
 
 O que ela deseja/espera de um bom app para isso: organização, interface agradável e rápida.
 
-#PERSONA 4: Augusto, 33 anos, vendedor, vive na região metropolitana de sua cidade.
+Persona #4: Augusto, 33 anos, vendedor.
 
 Quais apps costuma usar: utiliza apps de redes sociais como WhatsApp e Instagram, nos quais mantém contato com seus clientes mas não registra suas ações em aplicativos específicos de organização.
 
