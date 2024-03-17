@@ -1,14 +1,31 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+## Logomarca
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+## Perfis de Usuário
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+|USUÁRIO PADRÃO|-|-|  
+|--------------------|------------------------------------|----------------------------------------|
+|Descrição:  | Usuário que irá utilizar a interface como consumidor. |
+|Necessidades:  | Organização Eficiente: 
+| | Criar, editar e excluir tarefas. |
+| | Inserir descrição da tarefa. 
+| | Inserir prazo (data e horário) da tarefa. 
+| | Inserir local da tarefa. 
+| | Criar, editar e excluir metas. 
+| | Inserir descrição da meta. 
+| | Inserir prazo (data e horário) da meta. 
+| | Ter um layout para tarefas e para metas separadamente. 
+| | Facilidade de Uso: 
+| | Interface que permita uma boa visualização dos compromissos de forma diária ou semanal. 
+| | Acompanhamento de Progresso: 
+| | Indicadores de progresso das metas, apresentando o que foi cumprido e o que falta ser cumprido.  |
 
 ## Personas
 
-#Persona 1: Marina, 23 anos, estudante Universitária, mora em uma cidade movimentada. Ela vem de uma família de classe média, onde aprendeu desde cedo a valorizar a educação e a busca pelo sucesso profissional.
+*Persona 1:* 
+
+Marina, 23 anos, estudante Universitária, mora em uma cidade movimentada. Ela vem de uma família de classe média, onde aprendeu desde cedo a valorizar a educação e a busca pelo sucesso profissional.
 
 Educação e Ocupação: Atualmente, Marina está cursando o quarto ano de Engenharia de Software em uma boa universidade. Ela é uma estudante dedicada e ambiciosa, sempre buscando oportunidades para expandir seus conhecimentos e habilidades.
 
@@ -18,7 +35,9 @@ Hábitos e Interesses: Marina é uma entusiasta da tecnologia e está sempre pro
 
 Metas de Uso do Produto/Serviço: Marina está interessada em encontrar uma solução de gerenciamento de tempo que seja intuitiva, personalizável e sincronizável em todos os seus dispositivos. Ela busca uma ferramenta que possa ajudá-la a priorizar tarefas, estabelecer metas realistas e acompanhar seu progresso ao longo do tempo.
 
-#Persona 2: Pedro, 29 anos, Profissional Recém-Formado em Administração de Empresas em uma universidade reconhecida. Ele vive em uma cidade grande e movimentada, onde há muitas oportunidades de emprego, mas também uma competição acirrada.
+*Persona 2:* 
+
+Pedro, 29 anos, Profissional Recém-Formado em Administração de Empresas em uma universidade reconhecida. Ele vive em uma cidade grande e movimentada, onde há muitas oportunidades de emprego, mas também uma competição acirrada.
 
 Educação e Ocupação: Após concluir sua graduação, Pedro conseguiu um emprego como assistente de marketing em uma startup de tecnologia. Ele está animado com a oportunidade de começar sua carreira em uma área que sempre o interessou.
 
@@ -28,7 +47,9 @@ Hábitos e Interesses: Pedro é um aficionado por tecnologia e está sempre em b
 
 Metas de Uso do Produto/Serviço: Pedro está interessado em encontrar uma solução de gerenciamento de tarefas e produtividade que seja fácil de usar, mas também poderosa o suficiente para atender às demandas de sua vida profissional agitada. Ele busca uma ferramenta que possa ajudá-lo a priorizar suas tarefas, organizar seu tempo de forma eficaz e colaborar com sua equipe de trabalho de maneira eficiente.
 
-PERSONA #3: Gabriela, 27 anos, estudante universitária, mora na capital de seu estado. Vem de uma família simples do interior e possui vários irmãos e irmãs.
+*Persona #3:*
+
+Gabriela, 27 anos, estudante universitária, mora na capital de seu estado. Vem de uma família simples do interior e possui vários irmãos e irmãs.
 
 Educação e Ocupação: cursando o oitavo semestre do curso de Administração.
 
@@ -38,7 +59,9 @@ Hábitos e Interesses: trabalho, estudos e em seu tempo livre, aproveita filmes 
 
 Metas de uso do Produto/Serviço: organizar melhor o seu tempo, com uma plataforma que ofereça organização e lembretes de cada tarefa que precisa realizar.
 
-PERSONA #4: Augusto, 33 anos, vendedor, mora na região metropolitana da capital de seu estado. Vem de família humilde, classe baixa.
+*Persona #4:* 
+
+Augusto, 33 anos, vendedor, mora na região metropolitana da capital de seu estado. Vem de família humilde, classe baixa.
 
 Educação e Ocupação: Ensino Médio completo, trabalha numa loja de artigos esportivos.
 
@@ -48,7 +71,9 @@ Hábitos e Interesses: trabalho para alcaçar uma vida mais confortável, pratic
 
 Metas de uso do Produto/Serviço: gostaria que a plataforma tivesse alertas avisando a hora das tarefas, pois se esquece das coisas com facilidade.
 
-PERSONA #5: André, 24 anos, professor, mora na região metropolitana de sua cidade. Vem de família humilde, classe média-baixa.
+*Persona #5:* 
+
+André, 24 anos, professor, mora na região metropolitana de sua cidade. Vem de família humilde, classe média-baixa.
 
 Educação e Ocupação: formado em Educação Física, André dá aulas de natação pra crianças em uma academia de sua cidade.
 
@@ -111,3 +136,7 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 ![diagramauso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t9-pmv-ads-2024-1-e2-proj-o-tarefario/assets/130309407/f38a10ee-402a-4193-9837-3beeff76fd97)
+
+## Referências Bibliográficas
+
+Hooker, David. (05/09/1996). Seven Principles Of Software Development. C2 Wiki. https://wiki.c2.com/?SevenPrinciplesOfSoftwareDevelopment 
