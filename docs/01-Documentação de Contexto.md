@@ -1,6 +1,6 @@
 # Introdução
 
-Convidamos os leitores desse artigo, a assistir um breve vídeo sobre a apresentação dessa proposta: _[será inserido aqui o link do vídeo de apresentação de até 2 minutos]_
+Convidamos os leitores desse artigo, a assistir um breve vídeo sobre a apresentação dessa proposta: https://www.youtube.com/watch?v=RvFqEWOslZc
 
 ## Problema
 
@@ -19,9 +19,6 @@ Considerando o problema apresentado, propomos como intervenção a criação de 
 Estudos comprovam que a falta de organização pode ser diretamente prejudicial a saúde mental de um indivíduo. Em entrevista ao Jornal Extra (Rede Globo), o neurologista Leandro Teles, membro da Academia Brasileira de Neurologia, afirma que a organização é capaz de facilitar o trabalho do cérebro;
 "Quando está tudo embaralhado e alguém procura algo, o cérebro gasta tempo e performance para achar o que se quer. Com isso, ele fica cansado e há queda de rendimento em atividades que exigem mais energia, como tomada de decisões, por exemplo" diz o médico.
 E então, através dessa perspectiva chegamos a ideia inicial do projeto.
-
-
-
 
 ## Público-Alvo
 
