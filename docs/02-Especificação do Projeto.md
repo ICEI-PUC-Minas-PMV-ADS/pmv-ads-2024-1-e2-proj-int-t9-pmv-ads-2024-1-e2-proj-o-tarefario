@@ -2,6 +2,8 @@
 
 ## Logomarca
 
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t9-pmv-ads-2024-1-e2-proj-o-tarefario/blob/main/docs/img/logo_1.jpeg" width="220"> <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t9-pmv-ads-2024-1-e2-proj-o-tarefario/blob/main/docs/img/logo_2.jpeg" width="220">
+
 ## Perfis de Usuário
 
 |USUÁRIO PADRÃO|-|-|  
@@ -23,7 +25,7 @@
 
 ## Personas
 
-*Persona 1:* 
+*Persona #1:* 
 
 Marina, 23 anos, estudante Universitária, mora em uma cidade movimentada. Ela vem de uma família de classe média, onde aprendeu desde cedo a valorizar a educação e a busca pelo sucesso profissional.
 
@@ -35,7 +37,7 @@ Hábitos e Interesses: Marina é uma entusiasta da tecnologia e está sempre pro
 
 Metas de Uso do Produto/Serviço: Marina está interessada em encontrar uma solução de gerenciamento de tempo que seja intuitiva, personalizável e sincronizável em todos os seus dispositivos. Ela busca uma ferramenta que possa ajudá-la a priorizar tarefas, estabelecer metas realistas e acompanhar seu progresso ao longo do tempo.
 
-*Persona 2:* 
+*Persona #2:* 
 
 Pedro, 29 anos, Profissional Recém-Formado em Administração de Empresas em uma universidade reconhecida. Ele vive em uma cidade grande e movimentada, onde há muitas oportunidades de emprego, mas também uma competição acirrada.
 
