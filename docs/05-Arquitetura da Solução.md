@@ -29,11 +29,11 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 
 ![BD](img/BD.png)
 
-Com essa estrutura básica, um usuário pode ter várias tarefas associadas a ele:
+Com essa estrutura básica, um usuário pode ter várias tarefas associadas a ele e podendo realizar as operções a seguir:
 
-Inclusão de Tarefa: Quando um usuário cria uma nova tarefa, os detalhes da tarefa são inseridos na tabela de Tarefa, com o ID do usuário associado.
-Remoção de Tarefa: Quando um usuário exclui uma tarefa, a linha correspondente na tabela de Tarefa é removida.
-Edição de Tarefa: Quando um usuário edita uma tarefa, os detalhes da tarefa são atualizados na tabela de Tarefa.
+# Inclusão de Tarefa: Quando um usuário cria uma nova tarefa, os detalhes da tarefa são inseridos na tabela de Tarefa, com o ID do usuário associado.
+# Remoção de Tarefa: Quando um usuário exclui uma tarefa, a linha correspondente na tabela de Tarefa é removida.
+# Edição de Tarefa: Quando um usuário edita uma tarefa, os detalhes da tarefa são atualizados na tabela de Tarefa.
 
 Além disso, é importante garantir a integridade referencial, ou seja, garantir que os IDs de usuário nas tarefas correspondam aos IDs existentes na tabela de Usuário.
 
