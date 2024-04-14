@@ -13,12 +13,10 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 ## Modelo ER (Projeto Conceitual)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
+![Diagrama ER - Tarefário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t9-pmv-ads-2024-1-e2-proj-o-tarefario/assets/113072581/8354f176-1d97-4ad2-94fb-bea082d80c61)
 
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
+Ferramenta utilizada para geração deste artefato: LucidChart.
 
-A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 ## Projeto da Base de Dados
 
