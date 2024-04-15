@@ -26,7 +26,7 @@ O diagrama abaixo apresenta o fluxo de interação do usuário com o sistema. As
 
 <h3><b>Tela - Login</b></h3>
 
-<p>A tela de logiin apresenta campos para inserção de e-mail e senha, e a funcionalidade para entrar em sua conta pessoal. ALém disso tem um botão para criar uma conta caso não a tenha, e um botão para recuperação senha. </p>
+<p>A tela de login apresenta campos para inserção de e-mail e senha, e a funcionalidade para entrar em sua conta pessoal. Além disso tem um botão para criar uma conta caso não a tenha, e um botão para recuperação senha. </p>
 
 ![2 - tela de login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t9-pmv-ads-2024-1-e2-proj-o-tarefario/assets/130309407/53736604-d810-4873-955e-1caf748c9767)
 
