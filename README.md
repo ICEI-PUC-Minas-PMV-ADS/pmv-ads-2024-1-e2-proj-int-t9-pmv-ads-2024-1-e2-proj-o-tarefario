@@ -11,12 +11,9 @@ Este projeto consiste em uma aplicação de gestão de tarefas diárias, uma sol
 
 ## Integrantes
 
-* Aliane Elias Amaral
-* Daphine Custódia de Almeida
-* Gabriel Mautone Costa
-* Gabriel Silva
+
 * João Paulo Leão Matos
-* Vinícius Simões dos Santos
+
 
 ## Orientador
 
