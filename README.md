@@ -12,7 +12,7 @@ Este projeto consiste em uma aplicação de gestão de tarefas diárias, uma sol
 ## Integrantes
 
 
-* João Paulo Leão Matos
+* João Paulo Leão Matos.
 
 
 ## Orientador
