@@ -44,3 +44,7 @@ Profº. Neil Paiva Tizzo
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+# Entrega Final (incompleta, devido a só ter restado um membro no grupo)
+
+<li><a href="https://www.youtube.com/watch?v=Uc8KwxBkBSI> Vídeo do protótipo da aplicação funcionando</a></li>
